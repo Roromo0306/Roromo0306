@@ -6,10 +6,10 @@
 
 # 💫 About Me:
 💻 Game Developer focused on gameplay programming and system design  
-🧩 Experienced with Unity, currently mastering Unreal Engine and C++  
+🧩 Experienced with Unity, currently learning Unreal Engine and C++  
 ⚙️ Interested in optimization, clean code architecture, and performance  
 📚 Always learning new tools to push creativity through technology  
-🤝 Open to collaboration on indie game projects and open-source tools
+🤝 Open to collaboration on indie game projects
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosario-romero-90906422a/) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://roromo03.itch.io/)
